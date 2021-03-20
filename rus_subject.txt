@@ -51,3 +51,12 @@ VI.2 Часть развертывания
 Представление и экспертная оценка
 
 Делайте свою работу над репо как обычно. По понятным причинам вы возвращаете не виртуальную машину, а контрольную сумму образа диска. Вы можете сделать это с помощью команды типа: shasum < disk.vdi. Храните свой образ диска где-нибудь, чтобы вы могли сделать свою экспертную оценку.
+
+
+https://github.com/heypham/roger_skyline_1/blob/master/1_VM_installation.md
+
+https://github.com/KseniiaPrytkova/roger-skyline-1
+
+https://github.com/KatyaPrusakova/42_roger-skyline-1
+
+https://github.com/KrasnovS/roger-skyline-1
