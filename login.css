@@ -82,7 +82,7 @@ h2.active {
 /* FORM TYPOGRAPHY*/
 
 input[type=button], input[type=submit], input[type=reset]  {
-  background-color: #32cd32;
+  background-color: #00FF00;
   border: none;
   color: white;
   padding: 15px 80px;
